@@ -2,10 +2,10 @@
 
 
 
-![image-20240504193336923](C:\Users\81543\AppData\Roaming\Typora\typora-user-images\image-20240504193336923.png)
+![image-20240504193336923](image-20240504193336923.png)
 
 SRFEM的结构如下：
 
 
 
-![image-20240504193510041](C:\Users\81543\AppData\Roaming\Typora\typora-user-images\image-20240504193510041.png)
+![image-20240504193510041](image-20240504193510041.png)
