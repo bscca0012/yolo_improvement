@@ -4,4 +4,4 @@
 
 
 
-![image-20240504154450547](C:\Users\81543\AppData\Roaming\Typora\typora-user-images\image-20240504154450547.png)
+![image-20240504154450547](image-20240504154450547.png)
